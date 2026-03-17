@@ -30,3 +30,5 @@
 https://github.com/user-attachments/assets/34f24271-009d-4d36-8a31-4f02decbd934
 
 ![微信图片_20260316232136_108_20](https://github.com/user-attachments/assets/26031400-2882-481c-8712-cda5319e796f)
+
+涉及知识点：函数的定义，选择语句(if elif else)，循环语句(for x in)，基本输入与输出，运算符与表达式
